@@ -1,0 +1,15 @@
+C:\Users\Santiago\OneDrive\Escritorio\Estudios\BYU\9oveno\cse310\bin\Debug\net9.0\cse310.exe
+C:\Users\Santiago\OneDrive\Escritorio\Estudios\BYU\9oveno\cse310\bin\Debug\net9.0\cse310.deps.json
+C:\Users\Santiago\OneDrive\Escritorio\Estudios\BYU\9oveno\cse310\bin\Debug\net9.0\cse310.runtimeconfig.json
+C:\Users\Santiago\OneDrive\Escritorio\Estudios\BYU\9oveno\cse310\bin\Debug\net9.0\cse310.dll
+C:\Users\Santiago\OneDrive\Escritorio\Estudios\BYU\9oveno\cse310\bin\Debug\net9.0\cse310.pdb
+C:\Users\Santiago\OneDrive\Escritorio\Estudios\BYU\9oveno\cse310\obj\Debug\net9.0\cse310.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\OneDrive\Escritorio\Estudios\BYU\9oveno\cse310\obj\Debug\net9.0\cse310.AssemblyInfoInputs.cache
+C:\Users\Santiago\OneDrive\Escritorio\Estudios\BYU\9oveno\cse310\obj\Debug\net9.0\cse310.AssemblyInfo.cs
+C:\Users\Santiago\OneDrive\Escritorio\Estudios\BYU\9oveno\cse310\obj\Debug\net9.0\cse310.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\OneDrive\Escritorio\Estudios\BYU\9oveno\cse310\obj\Debug\net9.0\cse310.sourcelink.json
+C:\Users\Santiago\OneDrive\Escritorio\Estudios\BYU\9oveno\cse310\obj\Debug\net9.0\cse310.dll
+C:\Users\Santiago\OneDrive\Escritorio\Estudios\BYU\9oveno\cse310\obj\Debug\net9.0\refint\cse310.dll
+C:\Users\Santiago\OneDrive\Escritorio\Estudios\BYU\9oveno\cse310\obj\Debug\net9.0\cse310.pdb
+C:\Users\Santiago\OneDrive\Escritorio\Estudios\BYU\9oveno\cse310\obj\Debug\net9.0\cse310.genruntimeconfig.cache
+C:\Users\Santiago\OneDrive\Escritorio\Estudios\BYU\9oveno\cse310\obj\Debug\net9.0\ref\cse310.dll
